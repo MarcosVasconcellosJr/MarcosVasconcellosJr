@@ -60,3 +60,6 @@ console.log('I am Marcos. Follow me!')
 </div>
 
 <br />
+
+  ![Snake animation](https://github.com/MarcosVasconcellosJr/MarcosVasconcellosJr/blob/output/github-contribution-grid-snake.svg)
+
