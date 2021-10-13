@@ -1,5 +1,9 @@
-## Hello, I'm Marcos!
+## Helloooo!
 
+
+```sh
+console.log('I am Marcos. Follow me!')
+```
 
 <div>
   <a href="https://www.youtube.com/channel/UCFd0rd-Zza76wRNpc2JhbQA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -22,8 +26,6 @@
 - I'm looking for the MVP (Microsoft Most Valuable Professional) award ([MVP](https://mvp.microsoft.com)).
 - I'm teaching about Microservices, Resilience and Scalability at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat).
 
-
-### My hard skills:
 
 <div style="display: inline_block">
   <h3>Languages</h3>
